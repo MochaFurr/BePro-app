@@ -9,12 +9,12 @@ const Social = () => {
     },
     {
       name: "instagram",
-      link: "https://www.facebook.com/profile.php?id=61553248260836",
+      link: "https://www.instagram.com/beprodetailing",
       icon: <FaInstagram />,
     },
     {
       name: "tiktok",
-      link: "https://www.facebook.com/profile.php?id=61553248260836",
+      link: "https://www.tiktok.com/@beprodetailing",
       icon: <FaTiktok />,
     },
   ];
